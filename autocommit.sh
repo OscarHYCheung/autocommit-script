@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 print_usage() {
   echo "Usage: autocommit [-d <target_directory>] [-i <interval>] [-m <commite_message>]"
